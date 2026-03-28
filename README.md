@@ -1,6 +1,6 @@
 ## Integrantes
 Lucas Alves Oliveira - RA: 326129404
-Lucas Gonçalves Florentino - 32617617
+Lucas Gonçalves Florentino RA: - 32617617
 Sérgio Antônio - RA : 316128163
 
 ## Descrição
