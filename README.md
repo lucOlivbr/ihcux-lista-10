@@ -16,3 +16,7 @@ O FilaZero é um aplicativo que permite que usuários evitem filas em estabeleci
   
 ## Fluxo principal
 O usuário faz login, visualiza os estabelecimentos próximos, escolhe um local, entra na fila virtual, acompanha sua posição e ao final avalia o atendimento.
+
+## Extras
+- Fluxo de erro para quando a fila está cheia
+- Tela de notificação avisando quando a vez do usuário está próxima
